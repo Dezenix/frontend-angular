@@ -33,7 +33,7 @@ Click on the image below to set up and contribute to the project or [Click here]
 
 This project exists thanks to all the **people who contribute**.
 
-![Contributors](https://contributors-img.web.app/image?repo=Dezenix/frontend-html-css-js)
+![Contributors](https://contributors-img.web.app/image?repo=Dezenix/frontend-angular)
 
 ## ❤️ Code of Conduct
 
