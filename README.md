@@ -1,7 +1,6 @@
 <h1 align="center">Frontend Angular</h1>
 
-![frontend angular](https://user-images.githubusercontent.com/79747022/138310697-03746b23-b258-4f2b-a516-ecfbc69eef20.png)
-
+![1](https://user-images.githubusercontent.com/79747022/138425844-29c45f59-88a3-4ee5-956e-d8c1c5d8f74f.png)
 
 <div align="center">
 
@@ -18,7 +17,8 @@
 <a href="https://github.com/Dezenix/frontend-angular/pulls"><img src="https://img.shields.io/github/issues-pr/Dezenix/frontend-angular?color=brightgreen"></a>
 <a href="https://github.com/Dezenix/frontend-angular/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Dezenix/frontend-angular?color=0059b3"></a>
 <!-- <a href="https://github.com/Dezenix/frontend-angular/issues"><img src="https://img.shields.io/github/issues/Dezenix/frontend-angulars?color=0059b3"></a> -->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 
 ## ⚒️ Contribution Guidelines
@@ -33,7 +33,7 @@ Click on the image below to set up and contribute to the project or [Click here]
 
 This project exists thanks to all the **people who contribute**.
 
-![Contributors](https://contributors-img.web.app/image?repo=Dezenix/frontend-html-css-js)
+![Contributors](https://contributors-img.web.app/image?repo=Dezenix/frontend-angular)
 
 ## ❤️ Code of Conduct
 
