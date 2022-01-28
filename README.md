@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Angular</h1>
 
-![1](https://user-images.githubusercontent.com/79747022/138425844-29c45f59-88a3-4ee5-956e-d8c1c5d8f74f.png)
+![1](https://user-images.githubusercontent.com/79747022/151585449-af73e5b2-9ddd-4a18-be3c-b10d9c62b9b2.png)
 
 <div align="center">
 
@@ -48,4 +48,4 @@ Please note that Open Source Design has a [Contributor Code of Conduct](https://
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Dezenix
 
-![thank you](https://user-images.githubusercontent.com/79747022/138310804-0eca7fb8-6888-4f3e-9c7e-6be97a2f4901.png)
+![t](https://user-images.githubusercontent.com/79747022/151585475-13e6c90c-b601-4b69-b2cf-dc857ac0304e.png)
